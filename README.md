@@ -34,18 +34,18 @@ typescript-incentiveSystem/
 ## Installation
 To get started with this project, follow these steps:
 
-Clone the repository:
+##Clone the repository:
 git clone https://github.com/username/startup-incentives.git
 cd startup-incentives
 
-Install dependencies:
+##Install dependencies:
 npm install
 
-Run the project:
+##Run the project:
 npm start
 
-Contact
+##Contact
 For more information or inquiries, please contact the project founder:
 
-Name: [Founder's Name]
-Email: [email@example.com]
+Name: Salvatore Coppola
+Email: s.coppola289@libero.it 
